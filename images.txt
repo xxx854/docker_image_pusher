@@ -2,6 +2,6 @@
 #--platform=linux/amd64 
 jenkins/jenkins:2.332.3-lts
 docker.elastic.co/kibana/kibana:7.14.0
-elasticsearch/elasticsearch:7.14.0
-beats/filebeat:7.14.0
-logstash/logstash:7.14.0
+docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+docker.elastic.co/beats/filebeat:7.14.0
+docker.elastic.co/logstash/logstash:7.14.0
