@@ -7,3 +7,4 @@ docker.elastic.co/beats/filebeat:7.14.0
 docker.elastic.co/logstash/logstash:7.14.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 jenkins/jenkins:2.479.1-lts
+jenkins/jenkins:2.479.2-lts
