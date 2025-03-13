@@ -1,13 +1,2 @@
 #支持指定架构
 #--platform=linux/amd64 
-jenkins/jenkins:2.332.3-lts
-docker.elastic.co/kibana/kibana:7.14.0
-docker.elastic.co/elasticsearch/elasticsearch:7.14.0
-docker.elastic.co/beats/filebeat:7.14.0
-docker.elastic.co/logstash/logstash:7.14.0
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
-jenkins/jenkins:2.479.1-lts
-jenkins/jenkins:2.479.2-lts
-jenkins/jenkins:2.60.3
-alpinelinux/alpine-docker-gitlab:13.12-stable
-
