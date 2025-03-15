@@ -1,5 +1,3 @@
 #支持指定架构
 #--platform=linux/amd64 
-langgenius/dify-api:0.15.2
-langgenius/dify-web:0.15.2
-nginx:stable
+ubuntu/squid:latest
